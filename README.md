@@ -9,6 +9,6 @@ The transformation process converted the raw AdventureWorks and Budget data into
 
 ## Project Files
 
-- [AdventureWorks Dataset](./AdventureWorks_Dataset.xlsx)
-- [Budget Dataset](./Budget_Dataset.xlsx)
-- [Power BI Report](./AdventureWorks_Budget_Analysis.pbix)
+- [AdventureWorks_Dataset](./AdventureWorks_Dataset.xlsx)
+- [Budget_Dataset](./Budget_Dataset.xlsx)
+- (./AdventureWorks_Budget_Analysis.pbix)
