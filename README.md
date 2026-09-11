@@ -6,3 +6,9 @@ The Budget dataset was transformed by cleaning and standardizing its budget valu
 
 Overall:
 The transformation process converted the raw AdventureWorks and Budget data into structured, consistent, and analysis-ready tables, enabling relationships between the tables and supporting accurate Power BI visualizations and business insights.
+
+## Project Files
+
+- [AdventureWorks Dataset](./AdventureWorks_Dataset.xlsx)
+- [Budget Dataset](./Budget_Dataset.xlsx)
+- [Power BI Report](./AdventureWorks_Budget_Analysis.pbix)
