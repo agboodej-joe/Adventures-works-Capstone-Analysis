@@ -13,3 +13,8 @@ The transformation process converted the raw AdventureWorks and Budget data into
 - [Budget Dataset](./Budget_Dataset.xlsx)
 - [Power BI Report](./AdventureWorks_Budget_Analysis.pbix)
 - DASHBOARD
+- ## Dashboard
+
+## Dashboard
+
+![adventuresworks Dashboard](Adventureworks_Budget_dashboard.png)
